@@ -4,3 +4,5 @@
 ## Gallery
 
 [<img src="images/image_2025-08-17_17-15-02-601" alt="image_2025-08-17_17-15-02-601" width="220">](images/image_2025-08-17_17-15-02-601) [Download](images/image_2025-08-17_17-15-02-601?raw=1)
+
+[<img src="images/image_2025-08-17_17-17-13-677" alt="image_2025-08-17_17-17-13-677" width="220">](images/image_2025-08-17_17-17-13-677) [Download](images/image_2025-08-17_17-17-13-677?raw=1)
